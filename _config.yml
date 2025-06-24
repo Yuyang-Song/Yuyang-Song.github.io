@@ -23,7 +23,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Yuyang Song"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SiChuan University"
+  # bio              : "SiChuan University"
   location         : "Sichuan, China"
   employer         :
   pubmed           : 
