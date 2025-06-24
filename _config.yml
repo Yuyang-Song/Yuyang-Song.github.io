@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuyang Song"
-description              : "Yuyang Song's homepage"
+title                    : "Yuyang Song's Homepage"
+# description              : "Yuyang Song's homepage"
 repository               : "Yuyang-Song/Yuyang-Song.github.io"
 google_scholar_stats_use_cdn : true
 
