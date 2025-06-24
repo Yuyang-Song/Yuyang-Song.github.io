@@ -65,11 +65,11 @@ optimize the format of the input data set.
 - The optimal antimicrobial peptides were found by regression analysis of MIC value.
 - [Construction of targeted anti-caries polypeptides based on machine learning](https://github.com/Orderheart/Machine_Learning_AMP_Analysis)
 
-
+<!-- <font color=red>Nationcal Scholarship</font> -->
 
 # 🎖 Honors and Awards
 - *2024.4* 🎉🎉 Huawei Smart Pedestal Scholarship.
-- *2023.11* 🎉🎉 <font color=red>Nationcal Scholarship</font>, Ministry of Education,China (Top 1%). 
+- *2023.11* 🎉🎉 National Scholarship, Ministry of Education,China (Top 1%). 
 - *2023.11* 🎉🎉First Price, China Undergraduate Mathematical Contest in Modeling.
 - *2023.10* 🎉🎉 First-class scholarship, Sichuan University (Top 1%). 
 - *2023.8* 🎉🎉First Price, China Undergraduate Internet of Things Design Competition.
