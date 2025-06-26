@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an undergraduate student majoring in computer science of Wuyuzhang Honour College in Sichuan University, expected to graduate in June 2026 under the supervision of Prof.[Mingjie tang](https://merlintang.github.io/), Sichuan University and Prof.[Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/), Purdue University.
+Yuyang Song is an undergraduate student majoring in computer science of Wuyuzhang Honour College in Sichuan University, expected to graduate in June 2026 under the supervision of Prof.[Mingjie tang](https://merlintang.github.io/), [Sichuan University](https://en.scu.edu.cn/) and Prof.[Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/), [Purdue University](https://www.purdue.edu/).
 Currently, his research interest lies in efficient reasoning LLMs, particularly LLM based Database System Design and Optimization.
 
-
+ 
+> I am eager to pursue admission to a PhD program in Fall 2026 to deepen my expertise and make meaningful contributions.
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -51,7 +52,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - [Query Rewrite via Large Language Model for DBMS](https://github.com/Orderheart/GenRewrite) -->
 
 ### 3D reconstruction system of edge-cloud field archaeology based on NERFs | 2023.11 - 2024.06
-###### Awards:National College Student Innovation and Entrepreneurship Project，Person in charge
+###### Awards: National Reward, National College Student Innovation and Entrepreneurship Project，Person in charge
 - Design the end-to-end 3D reconstruction scheme, deploy the Intranet server, and realize the edge device system client.
 - The 3D reconstruction algorithm 3D Gaussian SPlatting is deployed on edge devices and cloud devices to
 optimize the format of the input data set.
@@ -75,7 +76,7 @@ optimize the format of the input data set.
 - *2023.8* 🎉🎉First Price, China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
-- 2022.09 - 2026.06 (Expected), B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University
+- 2022.09 - 2026.06, B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University.
 
 
 
@@ -84,7 +85,7 @@ optimize the format of the input data set.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.11- now*, Purdue University, USA.
+- *2024.11- now*, research assistant, [Purdue University](https://www.purdue.edu/), USA.
 
 <div style="width: 300px; height: 200px; overflow: hidden;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a"></script>
