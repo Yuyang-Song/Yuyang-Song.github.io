@@ -70,6 +70,8 @@ optimize the format of the input data set.
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
 # 🎖 Honors and Awards
+- *2025.5* 🎉🎉 National Reward, National College Student Innovation and Entrepreneurship Project.
+- *2024.5* 🎉🎉 National Reward, National College Student Innovation and Entrepreneurship Project.
 - *2024.4* 🎉🎉 Huawei Smart Pedestal Scholarship.
 - *2023.11* 🎉🎉 National Scholarship, Ministry of Education,China (Top 1%). 
 - *2023.11* 🎉🎉First Price, China Undergraduate Mathematical Contest in Modeling.
