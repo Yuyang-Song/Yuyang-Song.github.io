@@ -70,13 +70,13 @@ optimize the format of the input data set.
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
 # 🎖 Honors and Awards
-- *2025.5* 🎉🎉 National Reward, National College Student Innovation and Entrepreneurship Project.
-- *2024.5* 🎉🎉 National Reward, National College Student Innovation and Entrepreneurship Project.
+- *2025.05* 🎉🎉 National Reward again! National College Student Innovation and Entrepreneurship Project.
+- *2024.05* 🎉🎉 National Reward, National College Student Innovation and Entrepreneurship Project.
 - *2024.4* 🎉🎉 Huawei Smart Pedestal Scholarship.
 - *2023.11* 🎉🎉 National Scholarship, Ministry of Education,China (Top 1%). 
-- *2023.11* 🎉🎉First Price, China Undergraduate Mathematical Contest in Modeling.
+- *2023.11* 🎉🎉 First Price, China Undergraduate Mathematical Contest in Modeling.
 - *2023.10* 🎉🎉 First-class scholarship, Sichuan University (Top 1%). 
-- *2023.8* 🎉🎉First Price, China Undergraduate Internet of Things Design Competition.
+- *2023.08* 🎉🎉 First Price, China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
 - 2022.09 - 2026.06, B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University.
