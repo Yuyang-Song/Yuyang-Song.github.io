@@ -29,7 +29,7 @@ Currently, his research interest lies in efficient reasoning LLMs, particularly 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission SIGMOD'26</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [QUITE: A QueryRewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675)
@@ -79,7 +79,7 @@ optimize the format of the input data set.
 - *2023.08* 🎉🎉 First Price, China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
-- 2022.09 - 2026.06, B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University.
+- 2022.09 - 2026.06, B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University, **GPA: 3.87/4.00, Rank: 12/358**.
 
 
 
