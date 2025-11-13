@@ -29,7 +29,7 @@ Currently, his research interest lies in efficient reasoning LLMs, particularly 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission SIGMOD'26</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'26</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [QUITE: A QueryRewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675)
