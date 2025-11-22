@@ -32,7 +32,7 @@ Currently, his research interest lies in efficient reasoning LLMs, particularly 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'26</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[QUITE: A QueryRewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675)
+[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675)
 
 **Yuyang Song**, Hanxu Yan, Jiale Lao, Yibo Wang, Yufei Li, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
 
@@ -70,8 +70,8 @@ optimize the format of the input data set.
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
 # 🎖 Honors and Awards
-- *2025.05* 🎉🎉 National Reward again! National College Student Innovation and Entrepreneurship Project.
-- *2024.05* 🎉🎉 National Reward, National College Student Innovation and Entrepreneurship Project.
+- *2025.05* 🎉🎉 National Reward again! National College Student Innovation Project.
+- *2024.05* 🎉🎉 National Reward, National College Student Innovation Project.
 - *2024.4* 🎉🎉 Huawei Smart Pedestal Scholarship.
 - *2023.11* 🎉🎉 National Scholarship, Ministry of Education,China (Top 1%). 
 - *2023.11* 🎉🎉 First Price, China Undergraduate Mathematical Contest in Modeling.
