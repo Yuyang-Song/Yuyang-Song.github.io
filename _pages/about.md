@@ -28,7 +28,7 @@ Currently, his research interest lies in efficient reasoning LLMs, particularly 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'26</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IQuest-Coder-V1 Technical Report](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
