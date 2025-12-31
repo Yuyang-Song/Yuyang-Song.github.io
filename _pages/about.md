@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an undergraduate student majoring in computer science of Wuyuzhang Honour College in Sichuan University, expected to graduate in June 2026 under the supervision of Prof.[Mingjie tang](https://merlintang.github.io/), [Sichuan University](https://en.scu.edu.cn/) and Prof.[Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/), [Purdue University](https://www.purdue.edu/).
+Yuyang Song is an undergraduate student majoring in computer science of Wuyuzhang Honour College in Sichuan University, expected to graduate in June 2026 under the supervision of Prof.[Mingjie tang](https://merlintang.github.io/), [Sichuan University](https://en.scu.edu.cn/) and Prof.[Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/), [Purdue University](https://www.purdue.edu/). 
 Currently, his research interest lies in efficient reasoning LLMs, particularly LLM based Database System Design and Optimization.
 
  
@@ -28,6 +28,19 @@ Currently, his research interest lies in efficient reasoning LLMs, particularly 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'26</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IQuest-Coder-V1 Technical Report](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
+
+<!-- [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)  -->
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+We introduce IQuest-Coder-V1, a high-performance code LLM that achieves leading results on multiple public benchmarks, surpassing several competitive closed-source models.
+I mainly contributed to the post-training design and optimization, with a particular emphasis on Text-to-SQL reasoning (BIRD, Spider) and terminal-level execution tasks (Terminal-Bench-v1.0), substantially improving the model’s practical reasoning and action fidelity, surpassing the cutting-edge LLMs.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'26</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,7 +101,8 @@ optimize the format of the input data set.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.11- now*, research assistant, [Purdue University](https://www.purdue.edu/), USA.
+- *2025.09- now*, Research Intership, IQuest AI Lab, Ubiquant, China.
+- *2024.11- 2025.08*, Research Assistant, [Purdue University](https://www.purdue.edu/), USA.
 
 <div style="width: 300px; height: 200px; overflow: hidden;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a"></script>
