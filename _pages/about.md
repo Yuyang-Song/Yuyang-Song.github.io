@@ -52,15 +52,6 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - Construct a rewrite rule knowledge pool to further gain the learn ability.
 - [Query Rewrite via Large Language Model for DBMS](https://github.com/Orderheart/GenRewrite) -->
 
-### 3D reconstruction system of edge-cloud field archaeology based on NERFs | 2023.11 - 2024.06
-###### Awards: National Reward, National College Student Innovation and Entrepreneurship Project，Person in charge
-- Design the end-to-end 3D reconstruction scheme, deploy the Intranet server, and realize the edge device system client.
-- The 3D reconstruction algorithm 3D Gaussian SPlatting is deployed on edge devices and cloud devices to
-optimize the format of the input data set.
-- Cloud storage model, WEBGL front-end model rendering demonstration.
-- [3D reconstruction system of edge-cloud field archaeology based on NERFs](https://github.com/Orderheart/Archaeological_3D_Reconstruction)
-
-
 ### Construction of targeted anti-caries polypeptides based on machine learning | 2023.11 - 2024.03
 - Characterization of anti-caries antimicrobial peptide protein sequence and construction of data set.
 - Feature extraction and feature scoring index system were constructed by machine learning algorithm.
