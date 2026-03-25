@@ -19,7 +19,7 @@ redirect_from:
 
 Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will received his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, under the supervision of Prof.[Mingjie tang](https://merlintang.github.io/), [Sichuan University](https://en.scu.edu.cn/) and Prof.[Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/), [Purdue University](https://www.purdue.edu/). 
 
-Currently, his research interest lies in Database System Design and Optimization.
+Currently, his research interest lies in Efficient LLM Reasoning and system optimization.
 
  
 
@@ -31,7 +31,7 @@ Currently, his research interest lies in Database System Design and Optimization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733)[**Code**]([https://github.com/IQuestLab/IQuest-Coder-V1/tree/main](https://huggingface.co/IQuestLab))
+[IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733) [**Code**]([https://github.com/IQuestLab/IQuest-Coder-V1/tree/main](https://huggingface.co/IQuestLab))
 
 Jian Yang, Wei Zhang, Shawn Guo, Zhengmao Ye, Lin Jing, Shark Liu, Yizhi Li, Jiajun Wu, Cening Liu, X. Ma, **Yuyang Song**, et al.
 
