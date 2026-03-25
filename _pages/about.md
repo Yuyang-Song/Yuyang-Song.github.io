@@ -31,10 +31,9 @@ Currently, his research interest lies in Database System Design and Optimization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733)
+[IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733)[**Code**]([https://github.com/IQuestLab/IQuest-Coder-V1/tree/main](https://huggingface.co/IQuestLab))
 
-[**Code**](https://github.com/IQuestLab/IQuest-Coder-V1/tree/main)
-Jian Yang, Wei Zhang, Shawn Guo, Zhengmao Ye, Lin Jing, Shark Liu, Yizhi Li, Jiajun Wu, Cening Liu, X. Ma, **Yuyang Song**, Siwei Wu, Yuwen Li, L. Liao, T. Zheng, Ziling Huang, Zelong Huang, Che Liu, Yan Xing, Renyuan Li, Qingsong Cai, Hanxu Yan, Siyue Wang, Shikai Li, Jason Klein Liu, An Huang, Yongsheng Kang, Jinxing Zhang, Chuan Hao, Haowen Wang, Weicheng Gu, Ran Tao, Mingjie Tang, Peihao Wu, Jianzhou Wang, Xianglong Liu, Weifeng Lv, Bryan Dai 
+Jian Yang, Wei Zhang, Shawn Guo, Zhengmao Ye, Lin Jing, Shark Liu, Yizhi Li, Jiajun Wu, Cening Liu, X. Ma, **Yuyang Song**, et al.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 We introduce IQuest-Coder-V1, a high-performance code LLM that achieves leading results on multiple public benchmarks, surpassing several competitive closed-source models.
@@ -45,11 +44,9 @@ I mainly contributed to the post-training design and optimization, with a partic
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'25</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675)
+[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675) [**Code**]([https://github.com/Yuyang-Song/QUITE](https://github.com/Yuyang-Song/QUITE))
 
 **Yuyang Song**, Hanxu Yan, Jiale Lao, Yibo Wang, Yufei Li, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
-
-<!-- [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)  -->
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 QUITE is a training-free and feedback-aware system based on LLM agents that rewrites SQL queries into semantically equivalent forms with significantly better performance, covering a broader range of query patterns and rewrite strategies compared to rule-based methods.
