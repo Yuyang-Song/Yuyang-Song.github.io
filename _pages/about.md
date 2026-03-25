@@ -28,8 +28,21 @@ Currently, his research interest lies in Database System Design and Optimization
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'26</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
+[IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733)
+
+[**Code**](https://github.com/IQuestLab/IQuest-Coder-V1/tree/main)
+Jian Yang, Wei Zhang, Shawn Guo, Zhengmao Ye, Lin Jing, Shark Liu, Yizhi Li, Jiajun Wu, Cening Liu, X. Ma, **Yuyang Song**, Siwei Wu, Yuwen Li, L. Liao, T. Zheng, Ziling Huang, Zelong Huang, Che Liu, Yan Xing, Renyuan Li, Qingsong Cai, Hanxu Yan, Siyue Wang, Shikai Li, Jason Klein Liu, An Huang, Yongsheng Kang, Jinxing Zhang, Chuan Hao, Haowen Wang, Weicheng Gu, Ran Tao, Mingjie Tang, Peihao Wu, Jianzhou Wang, Xianglong Liu, Weifeng Lv, Bryan Dai 
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+We introduce IQuest-Coder-V1, a high-performance code LLM that achieves leading results on multiple public benchmarks, surpassing several competitive closed-source models.
+I mainly contributed to the post-training design and optimization, with a particular emphasis on Text-to-SQL reasoning and terminal-level execution tasks, substantially improving the model’s practical reasoning and action fidelity, surpassing the cutting-edge LLMs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'25</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675)
@@ -76,6 +89,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.09- now*, Research Intership, IQuest AI Lab, Ubiquant, China.
 - *2024.11- 2025.08*, Research Assistant, [Purdue University](https://www.purdue.edu/), USA.
 
 <div style="width: 300px; height: 200px; overflow: hidden;">
