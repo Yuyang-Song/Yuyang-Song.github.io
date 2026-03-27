@@ -77,7 +77,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2023.08* 🎉🎉 First Price, China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
-- 2022.09 - 2026.06, B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University, **GPA: 3.87/4.00, Rank: 12/358**.
+- 2022 - 2026, B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University.
 
 
 
