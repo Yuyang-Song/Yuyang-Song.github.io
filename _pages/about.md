@@ -55,18 +55,18 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🔬 Projects
-<!-- ### Query Rewrite via Large Language Model for DBMS | 2024.07 - 2024.08
+<!-- # 🔬 Projects
+### Query Rewrite via Large Language Model for DBMS | 2024.07 - 2024.08
 - Leverage the analytical power of Large Language Model to propose the relational rules of SQL optimization.
 - Repeat a LLM-based optimization pipline to reduce the hallucination issues in Large Language Model.
 - Construct a rewrite rule knowledge pool to further gain the learn ability.
-- [Query Rewrite via Large Language Model for DBMS](https://github.com/Orderheart/GenRewrite) -->
+- [Query Rewrite via Large Language Model for DBMS](https://github.com/Orderheart/GenRewrite)
 
 ### Construction of targeted anti-caries polypeptides based on machine learning | 2023.11 - 2024.03
 - Characterization of anti-caries antimicrobial peptide protein sequence and construction of data set.
 - Feature extraction and feature scoring index system were constructed by machine learning algorithm.
 - The optimal antimicrobial peptides were found by regression analysis of MIC value.
-- [Construction of targeted anti-caries polypeptides based on machine learning](https://github.com/Orderheart/Machine_Learning_AMP_Analysis)
+- [Construction of targeted anti-caries polypeptides based on machine learning](https://github.com/Orderheart/Machine_Learning_AMP_Analysis) -->
 
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
@@ -77,8 +77,20 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
-- *2026 - present*, Ph.D. in Computer Science, The University of Texas at Austin.
-- *2022 - 2026*, B.S. in Computer Science, Wuyuzhang College (Honours Programme), Sichuan University.
+<div class='school-list'>
+<div class='school-item'>
+  <div class='school-logo'><img src='images/utaustin.png' alt="UT Austin"></div>
+  <div class='school-text' markdown="1">
+  *2026 - present*, Ph.D. in Computer Science, The University of Texas at Austin.
+  </div>
+</div>
+<div class='school-item'>
+  <div class='school-logo'><img src='images/scu.png' alt="Sichuan University"></div>
+  <div class='school-text' markdown="1">
+  *2022 - 2026*, B.S. in Computer Science, Wuyuzhang College (Honours Programme), Sichuan University.
+  </div>
+</div>
+</div>
 
 
 <!-- # 💬 Invited Talks
