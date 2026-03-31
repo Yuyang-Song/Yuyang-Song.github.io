@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will received his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, under the supervision of Prof.[Mingjie tang](https://merlintang.github.io/), [Sichuan University](https://en.scu.edu.cn/) and Prof.[Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/), [Purdue University](https://www.purdue.edu/). 
+Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, under the supervision of Prof. [Mingjie Tang](https://merlintang.github.io/) ([Sichuan University](https://en.scu.edu.cn/)) and Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) ([Purdue University](https://www.purdue.edu/)). 
 
-Currently, his research interest lies in Efficient LLM Reasoning and system optimization.
+His research interest lies in **Efficient LLM Reasoning** and **System Optimization**.
 
- 
+
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -71,10 +71,10 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
 # 🎖 Honors and Awards
-- *2025.05* 🎉🎉 Fist Price, College Student Innovation Project.
-- *2023.11* 🎉🎉 First Price, China Undergraduate Mathematical Contest in Modeling.
-- *2023.10* 🎉🎉 First-class scholarship, Sichuan University (Top 1%). 
-- *2023.08* 🎉🎉 First Price, China Undergraduate Internet of Things Design Competition.
+- *2025.05*, First Prize, College Student Innovation Project.
+- *2023.11*, First Prize, China Undergraduate Mathematical Contest in Modeling.
+- *2023.10*, First-Class Scholarship, Sichuan University (Top 1%). 
+- *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
 - 2022 - 2026, B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University.
@@ -86,9 +86,11 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.09- now*, Research Intership, IQuest AI Lab, Ubiquant, China.
-- *2024.11- 2025.08*, Research Assistant, [Purdue University](https://www.purdue.edu/), USA.
+- *2025.09 - now*, Research Internship, IQuest AI Lab, Ubiquant, China.
+- *2024.11 - 2025.08*, Research Assistant, [Purdue University](https://www.purdue.edu/), USA.
 
-<div style="width: 300px; height: 200px; overflow: hidden;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a"></script>
+<br>
+
+<div style="width: 300px; height: 200px; overflow: hidden; margin: 0 auto;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a&t=n"></script>
 </div>
