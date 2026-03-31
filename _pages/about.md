@@ -31,7 +31,7 @@ His research interest lies in **Efficient LLM Reasoning** and **System Optimizat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733) [**Code**]([https://github.com/IQuestLab/IQuest-Coder-V1/tree/main](https://huggingface.co/IQuestLab))
+[IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733) \| [**Code**](https://huggingface.co/IQuestLab)
 
 Jian Yang, Wei Zhang, Shawn Guo, Zhengmao Ye, Lin Jing, Shark Liu, Yizhi Li, Jiajun Wu, Cening Liu, X. Ma, **Yuyang Song**, et al.
 
@@ -44,7 +44,7 @@ I mainly contributed to the post-training design and optimization, with a partic
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'25</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675) [**Code**]([https://github.com/Yuyang-Song/QUITE](https://github.com/Yuyang-Song/QUITE))
+[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675) \| [**Code**](https://github.com/Yuyang-Song/QUITE)
 
 **Yuyang Song**, Hanxu Yan, Jiale Lao, Yibo Wang, Yufei Li, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
 
@@ -55,7 +55,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-#  Projects
+# 🔬 Projects
 <!-- ### Query Rewrite via Large Language Model for DBMS | 2024.07 - 2024.08
 - Leverage the analytical power of Large Language Model to propose the relational rules of SQL optimization.
 - Repeat a LLM-based optimization pipline to reduce the hallucination issues in Large Language Model.
@@ -77,8 +77,8 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
-- 2022 - 2026, B.S. Candidate in Computer Science, Wuyuzhang College (Bachelor of Honours programme), Sichuan University.
-
+- *2026 - present*, Ph.D. in Computer Science, The University of Texas at Austin.
+- *2022 - 2026*, B.S. in Computer Science, Wuyuzhang College (Honours Programme), Sichuan University.
 
 
 <!-- # 💬 Invited Talks
