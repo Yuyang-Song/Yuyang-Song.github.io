@@ -92,5 +92,5 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 <br>
 
 <div style="width: 300px; height: 200px; overflow: hidden; margin: 0 auto;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a&t=n"></script>
+  <iframe src="//mapmyvisitors.com/map.html?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a&t=n" style="border: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
