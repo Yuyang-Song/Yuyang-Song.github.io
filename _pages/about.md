@@ -81,13 +81,13 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 <div class='school-item'>
   <div class='school-logo'><img src='images/utaustin.png' alt="UT Austin"></div>
   <div class='school-text' markdown="1">
-  *2026 - present*, Ph.D. in Computer Science, The University of Texas at Austin.
+  *2026.08 (incoming)*, Ph.D. in Computer Science, The University of Texas at Austin.
   </div>
 </div>
 <div class='school-item'>
   <div class='school-logo'><img src='images/scu.png' alt="Sichuan University"></div>
   <div class='school-text' markdown="1">
-  *2022 - 2026*, B.S. in Computer Science, Wuyuzhang College (Honours Programme), Sichuan University.
+  *2022.09 - 2026.06*, B.S. in Computer Science, Wuyuzhang College (Honours Programme), Sichuan University.
   </div>
 </div>
 </div>
