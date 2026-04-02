@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, under the supervision of Prof. [Mingjie Tang](https://merlintang.github.io/) ([Sichuan University](https://en.scu.edu.cn/)) and Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) ([Purdue University](https://www.purdue.edu/)). 
-
-His research interest lies in **Efficient LLM Reasoning** and **System Optimization**.
+Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, advised by Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) under the supervision of Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**.
 
 
 
