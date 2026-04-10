@@ -96,7 +96,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-# - *2025.09 - now*, Research Internship, IQuest AI Lab, Ubiquant, China.
+- *2025.09 - now*, Research Internship, IQuest AI Lab, Ubiquant, China.
 - *2024.11 - 2025.07*, Research Assistant, [Purdue University](https://www.purdue.edu/), USA.
 - *2024.09 - 2025.07*, Research Assistant, [Sichuan University](https://en.scu.edu.cn/), China.
 
