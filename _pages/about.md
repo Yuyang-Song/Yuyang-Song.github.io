@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, under the supervision of  Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) advised by Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**.
+Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin, advised by Prof. [Yizhong Wang](https://yizhong-wang.com/). He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, under the supervision of  Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) advised by Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**.
 
 
 
@@ -71,6 +71,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 # 🎖 Honors and Awards
 - *2025.05*, First Prize, College Student Innovation Project.
 - *2023.11*, First Prize, China Undergraduate Mathematical Contest in Modeling.
+- *2023.10*, National Scholarship, Ministry of Education, China (Top 1%). 
 - *2023.10*, First-Class Scholarship, Sichuan University (Top 1%). 
 - *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition.
 
