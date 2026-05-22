@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin, advised by Prof. [Yizhong Wang](https://yizhong-wang.com/). He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, under the supervision of  Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) advised by Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**.
+<!-- Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin, advised by Prof. [Yizhong Wang](https://yizhong-wang.com/). He receives his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, under the supervision of  Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) advised by Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**. -->
 
+Hi! I'm Yuyang Song, an incoming PhD student in Computer Science at The University of Texas at Austin, where I'll be working with Prof. [Yizhong Wang](https://yizhong-wang.com/). I wrap up my B.S. in Computer Science at the Wu Yuzhang Honors College, Sichuan University, advised by Prof. [Mingjie Tang](https://merlintang.github.io/). Before that, I was fortunate to be advised by Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) at [Purdue University](https://www.purdue.edu/).
 
-
+I'm broadly interested in **how data shapes a model as it flows through training, and how architecture and training should be designed around that flow**, with efficiency as a guiding principle. Rather than treating the model, its data, and its training as separate problems, I see them as forces that continually shape one another, and I want to understand how to harness that interplay to build capable models more efficiently.
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -80,7 +81,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 <div class='school-item'>
   <div class='school-logo'><img src='images/utaustin.png' alt="UT Austin"></div>
   <div class='school-text' markdown="1">
-  *2026.08 (incoming)*, Ph.D. in Computer Science, The University of Texas at Austin.
+  *2026.08 (incoming)*, Ph.D. in Computer Science, University of Texas at Austin.
   </div>
 </div>
 <div class='school-item'>
