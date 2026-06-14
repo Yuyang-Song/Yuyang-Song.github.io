@@ -36,8 +36,7 @@ I'm broadly interested in **how data shapes a model as it flows through training
 Jian Yang, Wei Zhang, Shawn Guo, Zhengmao Ye, Lin Jing, Shark Liu, Yizhi Li, Jiajun Wu, Cening Liu, X. Ma, **Yuyang Song**, et al.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-We introduce IQuest-Coder-V1, a high-performance code LLM that achieves leading results on multiple public benchmarks, surpassing several competitive closed-source models.
-I mainly contributed to the post-training design and optimization, with a particular emphasis on Text-to-SQL reasoning and terminal-level execution tasks, substantially improving the model’s practical reasoning and action fidelity, surpassing the cutting-edge LLMs.
+We introduce IQuest-Coder-V1, a high-performance code LLM that achieves leading results across multiple public benchmarks. My contribution focused on post-training optimization, specifically Text-to-SQL reasoning and agentic terminal tasks, improving the model's practical reasoning and reliability on real-world tasks.
 </div>
 </div>
 
