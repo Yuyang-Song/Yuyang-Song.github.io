@@ -28,6 +28,20 @@ I'm broadly interested in **how data shapes a model as it flows through training
 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (Spotlight)</div><img src='images/terminal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large-Scale Terminal Agentic Trajectory Generation
+from Dockerized Environments](https://github.com/multimodal-art-projection/TerminalTraj) \| [**Code**](https://github.com/multimodal-art-projection/TerminalTraj)
+
+Siwei Wu, Yizhi Li, **Yuyang Song**, Wei Zahng, Riza Batista-Navarro, Xian yang, Mingjie Tang, Bryan Dai, Jian Yang, Chenghua Lin.
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+We study how large-scale, execution-grounded terminal trajectories reshape the agentic capabilities of code LLMs. Trained on this data, TerminalTraj-32B achieves state-of-the-art results among models under 100B parameters and matches models more than 10× larger, while showing markedly steeper test-time scaling—evidence that the right training data, not just scale, drives terminal agent capability.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
