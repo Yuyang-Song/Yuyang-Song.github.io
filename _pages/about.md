@@ -84,7 +84,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
 # 🎖 Honors and Awards
-- *2025.05*, First Prize, College Student Innovation Project.
+- *2026.05*, Outstanding Undergraduate Graduate, Sichuan University.
 - *2023.11*, First Prize, China Undergraduate Mathematical Contest in Modeling.
 - *2023.10*, National Scholarship, Ministry of Education, China (Top 1%). 
 - *2023.10*, First-Class Scholarship, Sichuan University (Top 1%). 
