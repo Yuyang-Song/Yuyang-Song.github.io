@@ -32,7 +32,7 @@ I'm broadly interested in **how data shapes a model as it flows through training
 <div class='paper-box-text' markdown="1">
 
 [Large-Scale Terminal Agentic Trajectory Generation
-from Dockerized Environments](https://github.com/multimodal-art-projection/TerminalTraj) \| [**Code**](https://github.com/multimodal-art-projection/TerminalTraj)
+from Dockerized Environments](https://openreview.net/pdf?id=PeFSCRulgy) \| [**Code**](https://github.com/multimodal-art-projection/TerminalTraj)
 
 Siwei Wu\*, Yizhi Li\*, **Yuyang Song**\*, Wei Zahng, Riza Batista-Navarro, Xian yang, Mingjie Tang, Bryan Dai, Jian Yang, Chenghua Lin.
 
