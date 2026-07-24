@@ -21,7 +21,7 @@ redirect_from:
 
 <!-- Hi! I'm Yuyang Song, an incoming PhD student in Computer Science at [University of Texas at Austin](https://www.cs.utexas.edu/), where I'll be working with Prof. [Yizhong Wang](https://yizhong-wang.com/). I wrap up my B.S. in Computer Science at the Wu Yuzhang Honors College, [Sichuan University](http://en.scu.edu.cn/), advised by Prof. [Mingjie Tang](https://merlintang.github.io/). Before that, I was fortunate to be advised by Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) at [Purdue University](https://www.purdue.edu/). -->
 
-Hi! I'm Yuyang Song, an incoming PhD student in Computer Science at [University of Texas at Austin](https://www.cs.utexas.edu/), where I feel fortunate to be advised by Prof. [Yizhong Wang](https://yizhong-wang.com/). I wrap up my B.S. in Computer Science at the Wu Yuzhang Honors College, [Sichuan University](http://en.scu.edu.cn/), advised by Prof. [Mingjie Tang](https://merlintang.github.io/). I also work closely with Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) at [Purdue University](https://www.purdue.edu/). Currently, I am a member of the foundation model group at IQuest AI Lab, Ubiquant.
+Hi! I'm Yuyang Song, a first-year PhD student in Computer Science at [University of Texas at Austin](https://www.cs.utexas.edu/), where I feel fortunate to be advised by Prof. [Yizhong Wang](https://yizhong-wang.com/). I earned my B.S. in Computer Science at the Wu Yuzhang Honors College, [Sichuan University](http://en.scu.edu.cn/), under the supervision of Prof. [Mingjie Tang](https://merlintang.github.io/). From December 2025 to July 2026, I was a member of the Foundation Model Group at IQuest AI Lab, Ubiquant.
 
 I'm broadly interested in **how data shapes a model as it flows through training, and how architecture and training should be designed around that flow**, with efficiency as a guiding principle. Rather than treating the model, its data, and its training as separate problems, I see them as forces that continually shape one another, and I want to understand how to harness that interplay to build capable models more efficiently.
 
@@ -113,9 +113,6 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 
 # 💻 Internships
 - *2025.09 - now*, Research Internship, IQuest AI Lab, Ubiquant, China.
-- *2024.11 - 2025.07*, Research Assistant, [Purdue University](https://www.purdue.edu/), USA.
-- *2024.09 - 2025.07*, Research Assistant, [Sichuan University](https://en.scu.edu.cn/), China.
-
 <br>
 
 <div style="width: 300px; height: 200px; overflow: hidden; margin: 0 auto;">
