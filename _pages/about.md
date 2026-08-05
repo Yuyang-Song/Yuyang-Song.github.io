@@ -34,7 +34,7 @@ I'm broadly interested in **how data shapes a model as it flows through training
 [Large-Scale Terminal Agentic Trajectory Generation
 from Dockerized Environments](https://openreview.net/pdf?id=PeFSCRulgy) \| [**Code**](https://github.com/multimodal-art-projection/TerminalTraj)
 
-Siwei Wu\*, Yizhi Li\*, **Yuyang Song**\*, Wei Zahng, Riza Batista-Navarro, Xian yang, Mingjie Tang, Bryan Dai, Jian Yang, Chenghua Lin.
+Siwei Wu\*, Yizhi Li\*, **Yuyang Song**\*, Wei Zhang, Riza Batista-Navarro, Xian yang, Mingjie Tang, Bryan Dai, Jian Yang, Chenghua Lin.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 We study how large-scale, execution-grounded terminal trajectories reshape the agentic capabilities of code LLMs. Trained on this data, TerminalTraj-32B achieves state-of-the-art results among models under 100B parameters and matches models more than 10× larger, while showing markedly steeper test-time scaling—evidence that the right training data, not just scale, drives terminal agent capability.
