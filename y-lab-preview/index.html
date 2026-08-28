@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Y-Lab at The University of Texas at Austin — research on frontier language model training, agents, and long-horizon intelligence." />
+  <meta name="theme-color" content="#0b0b0c" />
+  <title>Y-Lab · UT Austin</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <canvas id="field" aria-hidden="true"></canvas>
+
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Y-Lab home">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 42 42" role="img">
+          <path d="M7 8.5L21 21M35 8.5L21 21M21 21V35" />
+          <circle cx="7" cy="8.5" r="2.4" />
+          <circle cx="35" cy="8.5" r="2.4" />
+          <circle cx="21" cy="35" r="2.4" />
+        </svg>
+      </span>
+      <span>Y-Lab</span>
+    </a>
+
+    <nav class="nav" aria-label="Primary navigation">
+      <a href="#research">Research</a>
+      <a href="#people">People</a>
+      <a href="#about">About</a>
+    </nav>
+
+    <a class="ut-chip" href="#about">UT Austin <span>↗</span></a>
+  </header>
+
+  <main id="top">
+    <section class="hero shell">
+      <div class="eyebrow reveal">Y-LAB · THE UNIVERSITY OF TEXAS AT AUSTIN</div>
+
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <h1 class="reveal delay-1">
+            Train.<br />
+            Adapt.<br />
+            <span>Coordinate.</span>
+          </h1>
+          <p class="hero-lede reveal delay-2">
+            We study how frontier AI systems can learn better, scale reliably, and work together over long horizons.
+          </p>
+          <div class="hero-actions reveal delay-3">
+            <a class="button primary" href="#research">Explore our research</a>
+            <a class="button ghost" href="#people">Meet the lab</a>
+          </div>
+        </div>
+
+        <div class="hero-symbol reveal delay-2" aria-hidden="true">
+          <div class="orbit orbit-a"></div>
+          <div class="orbit orbit-b"></div>
+          <svg class="y-glyph" viewBox="0 0 420 420">
+            <defs>
+              <linearGradient id="lineGradient" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0" stop-color="#f7efe7" stop-opacity="0.92" />
+                <stop offset="1" stop-color="#bf5700" stop-opacity="0.95" />
+              </linearGradient>
+            </defs>
+            <path d="M82 76L210 206L338 76M210 206V346" />
+            <circle cx="82" cy="76" r="8" />
+            <circle cx="338" cy="76" r="8" />
+            <circle cx="210" cy="346" r="8" />
+            <circle cx="210" cy="206" r="5" class="core-dot" />
+          </svg>
+          <div class="symbol-note note-a">SCALING</div>
+          <div class="symbol-note note-b">AGENTS</div>
+          <div class="symbol-note note-c">LEARNING</div>
+        </div>
+      </div>
+
+      <div class="hero-meta reveal delay-3">
+        <span>Principal Investigator · Yizhong Wang</span>
+        <span class="divider"></span>
+        <span>Computer Science · Austin, Texas</span>
+      </div>
+    </section>
+
+    <section class="marquee-wrap" aria-label="Research themes">
+      <div class="marquee-track">
+        <span>FRONTIER MODEL TRAINING</span><i>•</i>
+        <span>LEARNING FROM EXPERIENCE</span><i>•</i>
+        <span>MULTI-AGENT SYSTEMS</span><i>•</i>
+        <span>LONG-HORIZON INTELLIGENCE</span><i>•</i>
+        <span>SCALING & STABILITY</span><i>•</i>
+        <span>FRONTIER MODEL TRAINING</span><i>•</i>
+        <span>LEARNING FROM EXPERIENCE</span><i>•</i>
+        <span>MULTI-AGENT SYSTEMS</span><i>•</i>
+        <span>LONG-HORIZON INTELLIGENCE</span><i>•</i>
+        <span>SCALING & STABILITY</span><i>•</i>
+      </div>
+    </section>
+
+    <section id="research" class="section shell">
+      <div class="section-heading">
+        <p class="kicker">01 / RESEARCH</p>
+        <h2>Three directions.<br />One question.</h2>
+        <p class="section-intro">
+          How do we build AI systems that become more capable through scale, experience, and collaboration—without losing reliability?
+        </p>
+      </div>
+
+      <div class="research-grid">
+        <article class="research-card" data-index="01">
+          <div class="card-topline">
+            <span>Frontier Models</span>
+            <span>↗</span>
+          </div>
+          <h3>Scale with<br />confidence.</h3>
+          <p>
+            Architecture, training recipes, scaling ladders, and continual reinforcement learning for efficient and stable frontier-model development.
+          </p>
+          <div class="tags">
+            <span>Training</span><span>Scaling</span><span>Continual RL</span>
+          </div>
+        </article>
+
+        <article class="research-card" data-index="02">
+          <div class="card-topline">
+            <span>Experience</span>
+            <span>↗</span>
+          </div>
+          <h3>Learn from<br />interaction.</h3>
+          <p>
+            Models and agents that improve from trajectories, feedback, and failures—turning past experience into better future behavior.
+          </p>
+          <div class="tags">
+            <span>LLM Training</span><span>Adaptation</span><span>Open Models</span>
+          </div>
+        </article>
+
+        <article class="research-card" data-index="03">
+          <div class="card-topline">
+            <span>Coordination</span>
+            <span>↗</span>
+          </div>
+          <h3>Think beyond<br />one agent.</h3>
+          <p>
+            Design and evaluation of multi-agent systems for long-horizon tasks, with principled coordination in settings such as scientific discovery.
+          </p>
+          <div class="tags">
+            <span>Agents</span><span>Multi-Agent</span><span>Evaluation</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="people" class="section people-section shell">
+      <div class="section-heading compact">
+        <p class="kicker">02 / PEOPLE</p>
+        <h2>People behind<br />the work.</h2>
+      </div>
+
+      <div class="pi-card">
+        <div>
+          <p class="micro">PRINCIPAL INVESTIGATOR</p>
+          <h3>Yizhong Wang</h3>
+        </div>
+        <div class="pi-right">
+          <span>Y-Lab</span>
+          <span>UT Austin</span>
+        </div>
+      </div>
+
+      <div class="people-grid">
+        <article class="person-card">
+          <div class="person-head">
+            <div class="avatar">KX</div>
+            <span class="role">Researcher</span>
+          </div>
+          <h3>Keyang Xuan</h3>
+          <p class="person-focus">Multi-agent systems · long-horizon agents</p>
+          <p class="person-bio">
+            Studies how agents coordinate, adapt, and make decisions over extended horizons, including scientific-discovery settings.
+          </p>
+          <div class="person-tags"><span>Agents</span><span>Coordination</span></div>
+        </article>
+
+        <article class="person-card">
+          <div class="person-head">
+            <div class="avatar">RG</div>
+            <span class="role">Researcher</span>
+          </div>
+          <h3>Rui Ge</h3>
+          <p class="person-focus">LLM training · learning from experience</p>
+          <p class="person-bio">
+            Builds models that improve through interaction, using trajectories, feedback, and failures to adapt future strategies.
+          </p>
+          <div class="person-tags"><span>Training</span><span>Experience</span></div>
+        </article>
+
+        <article class="person-card">
+          <div class="person-head">
+            <div class="avatar">YS</div>
+            <span class="role">Researcher</span>
+          </div>
+          <h3>Yuyang Song</h3>
+          <p class="person-focus">Frontier LLM training · continual RL</p>
+          <p class="person-bio">
+            Studies efficient and reliable frontier-model training, from architecture and recipes to scaling behavior and stable continual RL.
+          </p>
+          <div class="person-tags"><span>Scaling</span><span>RL</span></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="about" class="section about-section shell">
+      <div class="about-panel">
+        <div>
+          <p class="kicker">03 / ABOUT</p>
+          <h2>Intelligence,<br />under construction.</h2>
+        </div>
+        <div class="about-copy">
+          <p>
+            Y-Lab is a research group at The University of Texas at Austin led by Yizhong Wang. We work on the systems, algorithms, and evaluation methods needed to build the next generation of language models and agents.
+          </p>
+          <p class="muted">
+            Our current interests span frontier-model training, learning from experience, multi-agent coordination, and long-horizon intelligence.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer shell">
+    <div class="footer-brand">
+      <span class="footer-mark">Y/</span>
+      <span>Y-Lab</span>
+    </div>
+    <p>© <span id="year"></span> Y-Lab · UT Austin</p>
+    <a href="#top">Back to top ↑</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
