@@ -23,8 +23,7 @@ redirect_from:
 
 Hi! I'm Yuyang Song, a first-year PhD student in Computer Science at [University of Texas at Austin](https://www.cs.utexas.edu/), where I feel fortunate to be advised by Prof. [Yizhong Wang](https://yizhongw.github.io/). I earned my B.S. in Computer Science at the Wu Yuzhang Honors College, [Sichuan University](http://en.scu.edu.cn/), under the supervision of Prof. [Mingjie Tang](https://merlintang.github.io/). From October 2025 to July 2026, I was a member of the Foundation Model Group at IQuest AI Lab, Ubiquant.
 
-My research focuses on **how language models learn and improve through architecture, and training**. I study efficient and reliable training across pretraining and reinforcement learning, with an emphasis on frontier models, scaling, and long-horizon agentic behavior. My goal is to build efficient and reliable models that provide a stronger foundation for the scaling of intelligence.
-
+My research explores **how architecture and training shape the learning and capabilities of language models**. I study efficient and reliable training methods across pretraining and reinforcement learning, with a particular interest in how these methods scale to frontier models and support long-horizon agentic behavior. My goal is to advance the foundations of scalable intelligence.
 
 
 # 📝 Selected Publications 
