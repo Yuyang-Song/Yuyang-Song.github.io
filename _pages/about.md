@@ -43,7 +43,7 @@ IQuest-Q1 is an open-source agentic foundation model for CLI systems. A sparse M
 <div class='paper-box-text' markdown="1">
 
 [Large-Scale Terminal Agentic Trajectory Generation
-from Dockerized Environments](https://openreview.net/pdf?id=PeFSCRulgy) \| [**Code**](https://github.com/multimodal-art-projection/TerminalTraj)
+from Dockerized Environments](https://arxiv.org/pdf/2602.01244) \| [**Code**](https://github.com/multimodal-art-projection/TerminalTraj)
 
 Siwei Wu\*, Yizhi Li\*, **Yuyang Song**\*, Wei Zhang, Riza Batista-Navarro, Xian yang, Mingjie Tang, Bryan Dai, Jian Yang, Chenghua Lin.
 
