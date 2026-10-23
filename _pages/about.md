@@ -31,7 +31,7 @@ My research explores **how architecture and training shape the learning and capa
 <div class='paper-box-text' markdown="1">
 
 [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems
-](https://iquestlab.github.io/) \| [**Code**](https://huggingface.co/IQuestLab/IQuest-Q1)
+](https://arxiv.org/pdf/2610.30949) \| [**Code**](https://huggingface.co/IQuestLab/IQuest-Q1)
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 IQuest-Q1 is an open-source agentic foundation model for CLI systems. A sparse Mixture-of-Experts model with 320B total parameters and 15B activated, it combines general and coding agent capabilities with efficient compute for medium- and long-horizon tasks. During development, it also takes part in its own improvement under human supervision.
