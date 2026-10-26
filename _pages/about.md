@@ -21,7 +21,7 @@ redirect_from:
 
 <!-- Hi! I'm Yuyang Song, an incoming PhD student in Computer Science at [University of Texas at Austin](https://www.cs.utexas.edu/), where I'll be working with Prof. [Yizhong Wang](https://yizhong-wang.com/). I wrap up my B.S. in Computer Science at the Wu Yuzhang Honors College, [Sichuan University](http://en.scu.edu.cn/), advised by Prof. [Mingjie Tang](https://merlintang.github.io/). Before that, I was fortunate to be advised by Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) at [Purdue University](https://www.purdue.edu/). -->
 
-Hi! I'm Yuyang Song, a first-year PhD student in Computer Science at [University of Texas at Austin](https://www.cs.utexas.edu/), where I feel fortunate to be advised by Prof. [Yizhong Wang](https://yizhongw.github.io/). I earned my B.S. in Computer Science at the Wu Yuzhang Honors College, [Sichuan University](http://en.scu.edu.cn/), under the supervision of Prof. [Mingjie Tang](https://merlintang.github.io/). From October 2025 to July 2026, I was a member of the Foundation Model Group at IQuest AI Lab, Ubiquant.
+Hi! I'm Yuyang Song, a first-year PhD student in Computer Science at [University of Texas at Austin](https://www.cs.utexas.edu/), where I feel fortunate to be advised by Prof. [Yizhong Wang](https://yizhongw.github.io/). I earned my B.S. in Computer Science at the Wu Yuzhang Honors College, [Sichuan University](http://en.scu.edu.cn/), under the supervision of Prof. [Mingjie Tang](https://merlintang.github.io/). From August 2025 to July 2026, I was a member of the Foundation Model Group at IQuest AI Lab, Ubiquant.
 
 My research explores **how architecture and training shape the learning and capabilities of language models**. I study efficient and reliable training methods across pretraining and reinforcement learning, with a particular interest in how these methods scale to frontier models and support long-horizon agentic behavior. My goal is to advance the foundations of scalable intelligence.
 
@@ -125,7 +125,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.10 - 2026.07*, Internship, IQuest AI Lab, Ubiquant, China.
+- *2025.8 - 2026.07*, Internship, IQuest AI Lab, Ubiquant, China.
 <br>
 
 <div style="width: 300px; height: 200px; overflow: hidden; margin: 0 auto;">
