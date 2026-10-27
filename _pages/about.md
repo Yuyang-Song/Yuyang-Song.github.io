@@ -33,7 +33,7 @@ My research explores **how architecture and training shape the learning and capa
 [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems
 ](https://arxiv.org/pdf/2610.30949) \| [**Code**](https://huggingface.co/IQuestLab/IQuest-Q1)
 
-Siwei Wu\*, Yizhi Li\*, **Yuyang Song**\*, Wei Zhang, Riza Batista-Navarro, Xian yang, Mingjie Tang, Bryan Dai, Jian Yang, Chenghua Lin.
+IQuest Research
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 IQuest-Q1 is an open-source agentic foundation model for CLI systems. A sparse Mixture-of-Experts model with 320B total parameters and 15B activated, it combines general and coding agent capabilities with efficient compute for medium- and long-horizon tasks. During development, it also takes part in its own improvement under human supervision.
@@ -47,7 +47,7 @@ IQuest-Q1 is an open-source agentic foundation model for CLI systems. A sparse M
 [Large-Scale Terminal Agentic Trajectory Generation
 from Dockerized Environments](https://arxiv.org/pdf/2602.01244) \| [**Code**](https://github.com/multimodal-art-projection/TerminalTraj)
 
-IQuest Research
+Siwei Wu\*, Yizhi Li\*, **Yuyang Song**\*, Wei Zhang, Riza Batista-Navarro, Xian yang, Mingjie Tang, Bryan Dai, Jian Yang, Chenghua Lin.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 We study how large-scale, execution-grounded terminal trajectories reshape the agentic capabilities of code LLMs. Trained on this data, TerminalTraj-32B achieves state-of-the-art results among models under 100B parameters and matches models more than 10× larger, while showing markedly steeper test-time scaling—evidence that the right training data, not just scale, drives terminal agent capability.
